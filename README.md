@@ -185,7 +185,7 @@ I care deeply about:
     <img src="https://img.shields.io/badge/LinkedIn-Akash%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/akashkumard333-star">
+  <a href="https://github.com/akashkumard333-star/akashkumard333">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -195,7 +195,7 @@ I care deeply about:
   &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/akash-kumar-494b52212">💼 LinkedIn</a>
   &nbsp;•&nbsp;
-  <a href="https://github.com/akashkumard333-star">💻 GitHub</a>
+  <a href="https://github.com/akashkumard333-star/akashkumard333">💻 GitHub</a>
 </p>
 
 <p align="center"><i>Thanks for visiting my profile! 🙌</i></p>
