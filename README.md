@@ -58,12 +58,16 @@ I care deeply about:
 📍 Bangalore, India | 🗓 Sep 2022 – Jul 2024  
 
 - Delivered SAP ABAP support and greenfield implementation projects
-- Debugged and resolved **production issues** through root-cause analysis
-- Developed custom **Smart Forms (ZSD_INVOICE)** for multi-company invoicing
-- Enhanced **IDocs (COND_A, DESADV)** using custom segments, exits, and BADIs
-- Automated **Excel data uploads** using ABAP reports with background jobs
-- Built **Python-based automation** in ServiceNow to streamline ticket resolution
-- Reduced manual effort and response times through workflow automation
+- Developed Classical and Interactive Reports for business data analysis.
+- Built and supported Proxy Interfaces (SOA) and IDOC integrations.
+- Utilized BAPIs for process automation in MM, SD, FI, and Manufacturing modules.
+- Implemented enhancements using User Exits, Customer Exits, Screen Exits, BADIs, BTEs, and Implicit Enhancements.
+- Designed and customized SAP Scripts, SmartForms, and Adobe Forms.
+- Worked on OOABAP, RFCs, DDIC objects, T-code creation, SLG0 logs, TRACE, and CHARM for transport requests.
+- Good functional knowledge in MM, SD, FI, and Manufacturing.
+- Collaborated with functional teams for requirement gathering and feasibility analysis.
+- Performed production debugging, root cause analysis, and provided solutions.
+- Conducted unit testing and prepared detailed technical documentation.
 
 ---
 
@@ -108,9 +112,9 @@ I care deeply about:
 ## 🚀 Selected Projects  
 
 ### 🏏 T20 World Cup 2024 — SQL Data Warehouse  
-- Designed a normalized **SQL Server data warehouse**
-- Implemented **constraints, triggers, stored procedures, and analytical views**
-- Built reusable queries for tournament-level insights
+- Designed and managed relational databases using SQL. Wrote complex queries, stored procedures, functions, and triggers to handle transactional logic and business rules effectively.
+- Used Azure Data Studio for database interaction and script execution. Leveraged Docker to run SQL Server in isolated containers, simulating real-world deployment environments.
+- Completed assignments involving DDL/DML operations, joins, subqueries, transactions, views, stored procedures, and triggers—demonstrating real-time problem solving with efficient SQL logic.
 
 ---
 
@@ -121,17 +125,34 @@ I care deeply about:
 
 ---
 
-### ☁️ AWS Cloud Data Engineering Pipeline  
-- Designed an end-to-end **serverless data pipeline**
-- Implemented **Lambda, S3, Athena, Kinesis, DynamoDB, and SageMaker**
-- Enabled secure, scalable batch and real-time data processing
+### 🫀 Intelligent Health Monitoring & Heart Attack Prediction System
+- An end-to-end cloud-based healthcare analytics pipeline that simulates patient vitals, processes large-scale health data, trains a machine learning model, and delivers real-time heart attack risk alerts using AWS services.
+  
+🔹 What This Project Does
+- Generates realistic patient vitals to simulate continuous health monitoring
+- Aggregates and processes data at scale using Apache Spark on AWS EMR
+- Trains and deploys an XGBoost model on AWS SageMaker for risk prediction
+- Performs real-time inference via AWS Lambda and sends alerts using Amazon SNS
+
+🔹 Architecture Highlights
+- Data Processing: Spark on EMR for weekly vitals aggregation
+- ML Pipeline: Feature engineering, model training, AUC-based evaluation
+- Deployment: SageMaker real-time endpoint
+- Automation: Lambda-triggered inference and alerting
 
 ---
 
 ## 📜 Certifications  
 
 - 🏅 SAP Certified Associate – Back-End Developer (ABAP Cloud)  
-- 🏅 AWS Academy Graduate – Data Engineering  
+- 🏅 AWS Academy Graduate – Data Engineering
+- 🏅 AWS Academy Graduate - Machine Learning for Natural Language Processing
+- 🏅 AWS Academy Graduate - Machine Learning Foundations
+- 🏅 Exploring SAP Datasphere - Course Completion
+- 🏅 SQL (Intermediate) Certificate
+- 🏅 Generative AI at SAP
+- 🏅 Discovering SAP Business Technology Platform - Record of Achievement
+- 🏅 Managing Clean Core for SAP S/4HANA Cloud - Record of Achievement
 
 ---
 
