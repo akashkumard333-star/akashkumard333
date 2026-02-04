@@ -159,17 +159,48 @@ I care deeply about:
 ## 📊 GitHub Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true" width="40%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=akashkumard333-star&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkumard333-star&layout=compact&hide_border=true"
+    width="40%"
+  />
 </p>
+
 
 ---
 
-## 📫 Connect With Me  
+<!-- ===================== CONNECT ===================== -->
+
+<h2 align="center">📫 Connect with me</h2>
 
 <p align="center">
-  <a href="mailto:akashkumard333@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/akash-kumar-494b52212">LinkedIn</a>
+  <a href="mailto:akashkumard333@gmail.com">
+    <img src="https://img.shields.io/badge/Email-akashkumard333%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/akash-kumar-494b52212">
+    <img src="https://img.shields.io/badge/LinkedIn-Akash%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/akashkumard333-star">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="mailto:akashkumard333@gmail.com">📧 Email</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/akash-kumar-494b52212">💼 LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/akashkumard333-star">💻 GitHub</a>
+</p>
+
+<p align="center"><i>Thanks for visiting my profile! 🙌</i></p>
+
+<!-- ===================== END CONNECT ===================== -->
+
 
 <!-- ===================== END PROFILE ===================== -->
