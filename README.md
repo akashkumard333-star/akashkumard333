@@ -2,7 +2,7 @@
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/your-username/your-username/main/assets/akash-banner.png"
+    src="https://raw.githubusercontent.com/akashkumard333-star/akashkumard333/main/assets/akash-banner.png"
     alt="Akash Kumar | Cloud • Data • Software Engineering"
     style="width:100%; max-width:1200px; border-radius:18px;"
   />
